@@ -1,9 +1,9 @@
-x = 1+1
+x = 2+2
 
-d = iris
-class(d)
+e = iris
+class(e)
 
-head(d)
+head(e)
 
 list.files()
 
